@@ -77,6 +77,13 @@ curl -o $HOME/beacon-docker-compose/docker-compose.yml https://raw.githubusercon
 docker compose up -d
 ```
 
+![image](https://github.com/user-attachments/assets/847e5bda-bf80-4e6a-90b9-c10d211954fc)
+
+- Bitmesini bekliyoruz.
+
+![image](https://github.com/user-attachments/assets/6027dddf-f47c-4c25-9914-12cd9910bc4d)
+
+
 ## Node ID Oluşturalım ; 
 
 ```bash
