@@ -95,3 +95,6 @@ docker compose exec blockcastd blockcastd init
 - Hardware ID: xxxxxxxxxxxxxxxxxxx
 - Challenge Key: xxxxxxxxxxxxxxxxxxx
 - Register URL : https://app.blockcast.network/register?hwid=
+
+![image](https://github.com/user-attachments/assets/d8f147d2-d755-4a83-a8d7-a9fb00854f3c)
+
