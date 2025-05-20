@@ -82,3 +82,9 @@ docker compose up -d
 ```bash
 docker compose exec blockcastd blockcastd init
 ```
+
+#### Bize Bazı Bilgiler Verecek ; 
+
+- Hardware ID: xxxxxxxxxxxxxxxxxxx
+- Challenge Key: xxxxxxxxxxxxxxxxxxx
+- Register URL : https://app.blockcast.network/register?hwid=
