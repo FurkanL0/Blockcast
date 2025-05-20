@@ -148,3 +148,14 @@ docker compose up -d
 - SFTP ile dosyayı kendi cihazınıza yedek almayı unutmayın
 
 ![image](https://github.com/user-attachments/assets/2d5e77ab-3b76-4a48-8a91-2133dd235cc5)
+
+
+## Durdurma : 
+
+```bash
+cd $HOME
+cd beacon-docker-compose
+```
+```bash
+docker compose down
+```
