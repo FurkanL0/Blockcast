@@ -21,6 +21,7 @@
 
 - Link : https://app.blockcast.network?referral-code=MddGFc
 - Sağ Üstten profile tıklayın.
+
 ![image](https://github.com/user-attachments/assets/4b302806-3bb5-48dd-9fa0-d1bc72e578c5)
 
 - Solana cüzdan adresinizi bağlayın. - X ve DC Bağlayın.
