@@ -20,6 +20,12 @@
 # BlockCast Kayıt ; 
 
 - Link : https://app.blockcast.network?referral-code=MddGFc
+- Sağ Üstten profile tıklayın.
+![image](https://github.com/user-attachments/assets/4b302806-3bb5-48dd-9fa0-d1bc72e578c5)
+
+- Solana cüzdan adresinizi bağlayın. - X ve DC Bağlayın.
+![image](https://github.com/user-attachments/assets/99603680-81a8-409b-863f-8609d288566c)
+
 
 ## 1. Server Güncelleme : 
 
@@ -102,3 +108,16 @@ docker compose exec blockcastd blockcastd init
 
 ![image](https://github.com/user-attachments/assets/d8f147d2-d755-4a83-a8d7-a9fb00854f3c)
 
+- Linki Blockcast  kayıt olduğunuz tarayıcıda açın.
+
+![image](https://github.com/user-attachments/assets/a47c7757-a084-470d-80d8-84a2123cd413)
+
+- Sunucu Lokasyon Bilgilerinizi girin.
+
+#### Lokasyon Bilgisi 
+```bash
+curl http://ip-api.com/json/
+```
+![image](https://github.com/user-attachments/assets/395280ed-5e71-4dbf-ac4b-efc944d1dd86)
+
+- Ayarlayıp Register Node'a tıklayın.
