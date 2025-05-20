@@ -22,10 +22,10 @@
 - Link : https://app.blockcast.network?referral-code=MddGFc
 - Sağ Üstten profile tıklayın.
 
-![image](https://github.com/user-attachments/assets/4b302806-3bb5-48dd-9fa0-d1bc72e578c5)
+- ![image](https://github.com/user-attachments/assets/4b302806-3bb5-48dd-9fa0-d1bc72e578c5)
 
 - Solana cüzdan adresinizi bağlayın. - X ve DC Bağlayın.
-![image](https://github.com/user-attachments/assets/99603680-81a8-409b-863f-8609d288566c)
+- ![image](https://github.com/user-attachments/assets/99603680-81a8-409b-863f-8609d288566c)
 
 
 ## 1. Server Güncelleme : 
