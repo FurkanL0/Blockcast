@@ -47,9 +47,15 @@ chmod +x /usr/local/bin/docker-compose
 docker-compose --version
 ```
 
-## 4. Docker Kullanıcı İzinleri Veriyoruz
+## 5. Docker Kullanıcı İzinleri Veriyoruz
 
 ```bash
 sudo groupadd docker
 sudo usermod -aG docker $USER
+```
+## Dosyaları İndirelim : 
+
+```bash
+git clone https://github.com/Blockcast/beacon-docker-compose.git
+cd beacon-docker-compose
 ```
