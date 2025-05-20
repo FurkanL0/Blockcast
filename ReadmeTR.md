@@ -103,6 +103,8 @@ docker compose exec blockcastd blockcastd init
 
 #### Bize Bazı Bilgiler Verecek ; 
 
+- Bilgileri kaydedin.
+
 - Hardware ID: xxxxxxxxxxxxxxxxxxx
 - Challenge Key: xxxxxxxxxxxxxxxxxxx
 - Register URL : https://app.blockcast.network/register?hwid=
@@ -138,3 +140,11 @@ git pull origin main
 docker compose down
 docker compose up -d
 ```
+
+## Private Key Kaydetme : 
+
+- ~/.blockcast/certs/gw_challenge.key  Private Key Dosyası burada
+
+- SFTP ile dosyayı kendi cihazınıza yedek almayı unutmayın
+
+![image](https://github.com/user-attachments/assets/2d5e77ab-3b76-4a48-8a91-2133dd235cc5)
