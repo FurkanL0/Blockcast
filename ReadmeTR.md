@@ -17,6 +17,10 @@
 ## Proje Sosyal Medyaları : 
 - Twitter : https://x.com/BlockcastNet
 
+# BlockCast Kayıt ; 
+
+- Link : https://app.blockcast.network?referral-code=MddGFc
+
 ## 1. Server Güncelleme : 
 
 ```bash
