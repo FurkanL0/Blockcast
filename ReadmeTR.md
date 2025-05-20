@@ -122,3 +122,21 @@ curl http://ip-api.com/json/
 ![image](https://github.com/user-attachments/assets/395280ed-5e71-4dbf-ac4b-efc944d1dd86)
 
 - Ayarlayıp Register Node'a tıklayın.
+
+## Node Kontrol : 
+
+- Link : https://app.blockcast.network/manage-nodes
+
+![image](https://github.com/user-attachments/assets/351fcfeb-3bfd-4176-a351-77bbcf72b629)
+
+![image](https://github.com/user-attachments/assets/3126ba10-0ea8-41ee-8096-a5261b2ce1c1)
+
+
+## Node Güncelleme : 
+
+```bash
+cd beacon-docker-compose
+git pull origin main
+docker compose down
+docker compose up -d
+```
