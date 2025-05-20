@@ -127,8 +127,6 @@ curl http://ip-api.com/json/
 
 - Link : https://app.blockcast.network/manage-nodes
 
-![image](https://github.com/user-attachments/assets/351fcfeb-3bfd-4176-a351-77bbcf72b629)
-
 ![image](https://github.com/user-attachments/assets/3126ba10-0ea8-41ee-8096-a5261b2ce1c1)
 
 
