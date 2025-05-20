@@ -59,3 +59,26 @@ sudo usermod -aG docker $USER
 git clone https://github.com/Blockcast/beacon-docker-compose.git
 cd beacon-docker-compose
 ```
+
+- 8080 Portu dolu Olanlar için 8089 ; 
+
+```bash
+curl -o $HOME/beacon-docker-compose/docker-compose.yml https://raw.githubusercontent.com/FurkanL0/Blockcast/refs/heads/main/docker-compose.yml
+```
+
+- Sunucu yeni 8080 Portu Boş Diyenler İçin ; 
+
+```bash
+curl -o $HOME/beacon-docker-compose/docker-compose.yml https://raw.githubusercontent.com/FurkanL0/Blockcast/refs/heads/main/mainport/docker-compose.yml
+```
+
+## Başlatalım ; 
+```bash
+docker compose up -d
+```
+
+## Node ID Oluşturalım ; 
+
+```bash
+docker compose exec blockcastd blockcastd init
+```
