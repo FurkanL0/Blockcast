@@ -4,7 +4,7 @@
 |------------------|----------------------------|
 | **CPU**          | 2++ |
 | **RAM**          | 5++ GB ( 20++ )                    |
-| **Disk**      | 50 TB+ NVME GB SDD                   |
+| **Disk**      | 50 GB+ NVME GB SDD                   |
 | **Ağ Hızı**      | 100 Mbps (1 Gbps+ recommended) |
 
 
