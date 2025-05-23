@@ -97,7 +97,7 @@ docker compose up -d
 ![image](https://github.com/user-attachments/assets/6027dddf-f47c-4c25-9914-12cd9910bc4d)
 
 
-## Node ID Oluşturalım ; 
+## Node ID Inıt ; 
 
 ```bash
 docker compose exec blockcastd blockcastd init
@@ -117,7 +117,7 @@ docker compose exec blockcastd blockcastd init
 
 ![image](https://github.com/user-attachments/assets/a47c7757-a084-470d-80d8-84a2123cd413)
 
-- Sunucu Konum Bilgilerinizi girin.
+- Enter your Server Location Information.
 
 #### Location Info 
 ```bash
@@ -125,7 +125,7 @@ curl http://ip-api.com/json/
 ```
 ![image](https://github.com/user-attachments/assets/395280ed-5e71-4dbf-ac4b-efc944d1dd86)
 
-- Set and click Register Node.
+- Set and click Save Node.
 
 ## Node Check : 
 
